@@ -17,14 +17,18 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  icon: python
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Python
+- description: 50%
+  icon: java
+  icon_pack: fab
+  name: Java
+- description: 50%
+  icon: js
+  icon_pack: fab
+  name: JavaScript
+- description: 70%
   icon: camera-retro
   icon_pack: fas
   name: Photography
