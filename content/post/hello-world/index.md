@@ -5,7 +5,7 @@ draft: false
 featured: false
 image:
   filename: ""
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/yFHOYl5ESxQ)"
   alt_text: ""
