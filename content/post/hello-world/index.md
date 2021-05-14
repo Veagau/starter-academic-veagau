@@ -4,9 +4,11 @@ date: 2021-05-14T03:47:45.335Z
 draft: false
 featured: false
 image:
-  filename: https://w.wallhaven.cc/full/8o/wallhaven-8ogod1.jpg
+  filename: ""
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/yFHOYl5ESxQ)"
+  alt_text: ""
 ---
 ## About me
 
